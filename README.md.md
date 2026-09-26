@@ -15,7 +15,7 @@ void main() {
   double tinggi = 190.7;
   print(tinggi);
 
-  String? nama;
+  String? nama; 
   nama = "Aura";
   print(nama);
 
@@ -39,7 +39,7 @@ void main() {
   num angka = 10;
   num angkaDesimal = 5.5;
   print("$angka dan $angkaDesimal");
-
+                                   
   bool aktif = true;
   bool selesai = false;
   print(aktif);
