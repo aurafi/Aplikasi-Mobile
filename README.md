@@ -1,6 +1,6 @@
 # Latihan Dasar Dart - Pertemuan 1
 
-**Nama:** Aurafi Farida (1124160077)
+**Nama:** Aurafi Farida
 **NIM:** 1124160077
 **Mata Kuliah:** Aplikasi Mobile
 
